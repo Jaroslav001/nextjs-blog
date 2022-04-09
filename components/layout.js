@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
               width={460}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>let's build something together</h1>
+            <h1 className={utilStyles.heading2Xl}>let's build something together...</h1>
           </>
         ) : (
           <>
